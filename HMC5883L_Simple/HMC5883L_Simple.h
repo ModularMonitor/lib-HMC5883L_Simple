@@ -143,3 +143,5 @@ class HMC5883L_Simple
     uint8_t  i2c_address;
 };
 #endif
+
+#include "HMC5883L_Simple.ipp"
